@@ -6,7 +6,7 @@ A self-initiated data governance project applied to a fictional online pharmacy 
 
 ## Project Overview
 
-This project simulates the work of a junior Data Governance Analyst at an online pharmacy. Starting from a raw, uncleaned order dataset, the workbook documents every field, classifies it by sensitivity and GDPR legal basis, identifies data quality issues, and defines governance rules and policies — end to end.
+This project simulates the work of a junior Data Governance Analyst at an online pharmacy. Starting from a raw, uncleaned order dataset, the workbook documents every field, classifies it by sensitivity and GDPR legal basis, identifies data quality issues, and defines governance rules and policies - end to end.
 
 The dataset is entirely fictional and was designed to reflect realistic data governance challenges in a regulated healthcare e-commerce context.
 
